@@ -1,17 +1,8 @@
-<%-- [PAGE_INFO]
-    comment = #Please do not remove this struct. It's record contains some important information of edit. This struct will be removed automatically after you push edits.#
-    pageTitle = #矿物利用等级与采矿消耗#
-    pageID = #2093#
-    revisionID = #8459#
-    contentModel = #wikitext#
-    contentFormat = #text/x-wiki#
-[END_PAGE_INFO] --%>
-
 ==采矿消耗的机制==
 
 矿机每开采出一个矿，都会概率性的消耗对应的矿的储量。矿被消耗的概率与矿物利用科技等级的关系如下：
 
-<math>p=0.94^level</math>
+<math>p=0.94^{level}</math>
 
 ==采矿消耗概率计算中的伪随机数生成器==
 

@@ -1,3 +1,10 @@
+{{文章戳
+|分类=攻略
+|作者=bWFuanVzYWth
+|来源=
+|时间=
+}}
+
 ==官方推荐系统需求==
 
 {|class="wikitable wikitable-dsp"
